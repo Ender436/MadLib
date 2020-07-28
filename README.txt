@@ -1,0 +1,1 @@
+Just enter the part of speech that it is requesting to complete the mad lib. Be aware there is only one in this that it does over and over, so, nothing exciting.
